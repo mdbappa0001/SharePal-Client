@@ -7,7 +7,7 @@ const WhySharePal = () => {
     return (
         <>
 
-            <div className='card bg-base-300 mx-6'>
+            <div className='card bg-base-300 mx-6 mt-4'>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mx-5'>
 

@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Trekking Shoes",
+        "img": "https://i.ibb.co/1THG8j0/shoe.png",
+        "available": 3
+    },
+    {
+        "id": 2,
+        "name": "Trekking Jackets",
+        "img": "https://i.ibb.co/VTDLJKy/jacket.png",
+        "available": 10
+    },
+    {
+        "id": 3,
+        "name": "Available Backpacks",
+        "img": "https://i.ibb.co/SrdZ7sK/beg.png",
+        "available": 4
+    },
+    {
+        "id": 4,
+        "name": "Trek Accessories",
+        "img": "https://i.ibb.co/hYwRmsJ/glass.png",
+        "available": 11
+    },
+    {
+        "id": 5,
+        "name": "Action Cameras",
+        "img": "https://i.ibb.co/9bFwjnc/camera.png",
+        "available": 8
+    },
+    {
+        "id": 6,
+        "name": "Riding Gear",
+        "img": "https://i.ibb.co/ThJrfLh/gear.png",
+        "available": 7
+    }
+]
+
+
+
+
+
